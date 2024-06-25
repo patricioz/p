@@ -1,0 +1,27 @@
+#piedra:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+#papel:hover {
+transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+#tijera:hover {
+transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+} 
+#papel{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.navbar{
+     padding-left: 5%;
+}
+#puntaje{
+   padding-right: 5%;
+}
+#divRes{
+    text-align: center; 
+    background-color: Lavender;
+    margin-top: 2%;
+}
+#rdoImg{
+    width: 110%;
+}
